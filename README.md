@@ -4,7 +4,6 @@
 
 🔭 Blockchain & Software Developer
 
-🌱 Currently learning Web3, Solidity
 
 ## Tech Stack 💻
 [![Python, Java, Docker, Kafka, Postgresql, Redis, Django, Gitlab, Git, Postman, Pycharm](https://skillicons.dev/icons?i=py,java,docker,kafka,postgres,redis,django,gitlab,git,postman,pycharm)](https://skillicons.dev)
